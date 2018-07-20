@@ -1,0 +1,15 @@
+.button {
+	border: none;
+	padding: 10px 14px;
+	background: #14d614;
+	color: #ffffff;
+	font-size: 18px;
+}
+
+.isLoading {
+	opacity: 0;
+}
+
+.loader {
+	text-align: center;
+}

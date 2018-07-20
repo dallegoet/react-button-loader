@@ -1,0 +1,8 @@
+{
+  "short_name": "@dallegoet/react-button-loader",
+  "name": "@dallegoet/react-button-loader",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
