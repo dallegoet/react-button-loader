@@ -1,7 +1,7 @@
 {
-  "private": false,
+  "keywords": ["react", "button", "loader"], 
   "name": "@dallegoet/react-button-loader",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Button with loader feature.",
   "author": "dallegoet",
   "license": "MIT",
