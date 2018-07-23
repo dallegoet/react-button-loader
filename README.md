@@ -32,7 +32,7 @@ class Example extends Component {
 
 | Property  | Description |
 | ------------- | ------------- |
-| isLoading `boolean`  | Default: `false` -- Display or not the loader.  |
+| isLoading `boolean`  | Default: `false` -- Toggle loader display.  |
 
 ## License
 
